@@ -11,7 +11,7 @@
 - 💡 Strong understanding of **business workflows** across multiple industries  
 - 📦 Experienced in working with **Python**, **PHP**, **Go**, **Node.js**, and **JavaScript**  
 - 🌱 Currently exploring **microservices**, **cloud deployment**, and **modern frontend frameworks**  
-- 💬 Ask me about **Odoo customization**, **API integrations**, **Laravel apps**, or **backend performance optimization**
+- 💬 Ask me about **Odoo customization**
 
 ---
 
